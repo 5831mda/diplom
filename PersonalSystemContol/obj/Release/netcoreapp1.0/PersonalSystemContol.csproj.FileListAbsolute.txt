@@ -1,0 +1,18 @@
+C:\Users\andreygolubkow\Documents\Visual Studio 2017\Projects\PersonalSystemContol\PersonalSystemContol\bin\Release\netcoreapp1.0\PersonalSystemContol.deps.json
+C:\Users\andreygolubkow\Documents\Visual Studio 2017\Projects\PersonalSystemContol\PersonalSystemContol\bin\Release\netcoreapp1.0\PersonalSystemContol.runtimeconfig.json
+C:\Users\andreygolubkow\Documents\Visual Studio 2017\Projects\PersonalSystemContol\PersonalSystemContol\bin\Release\netcoreapp1.0\PersonalSystemContol.runtimeconfig.dev.json
+C:\Users\andreygolubkow\Documents\Visual Studio 2017\Projects\PersonalSystemContol\PersonalSystemContol\bin\Release\netcoreapp1.0\PersonalSystemContol.dll
+C:\Users\andreygolubkow\Documents\Visual Studio 2017\Projects\PersonalSystemContol\PersonalSystemContol\bin\Release\netcoreapp1.0\PersonalSystemContol.pdb
+C:\Users\andreygolubkow\Documents\Visual Studio 2017\Projects\PersonalSystemContol\PersonalSystemContol\obj\Release\netcoreapp1.0\PersonalSystemContol.AssemblyInfo.cs
+C:\Users\andreygolubkow\Documents\Visual Studio 2017\Projects\PersonalSystemContol\PersonalSystemContol\obj\Release\netcoreapp1.0\PersonalSystemContol.dll
+C:\Users\andreygolubkow\Documents\Visual Studio 2017\Projects\PersonalSystemContol\PersonalSystemContol\obj\Release\netcoreapp1.0\PersonalSystemContol.pdb
+C:\Users\andreygolubkow\documents\visual studio 2017\Projects\PersonalSystemContol\PersonalSystemContol\obj\Release\netcoreapp1.0\PersonalSystemContol.csprojResolveAssemblyReference.cache
+C:\Users\Dench\Desktop\DiplomFinish\PersonalSystemContol\PersonalSystemContol\bin\Release\netcoreapp1.0\PersonalSystemContol.deps.json
+C:\Users\Dench\Desktop\DiplomFinish\PersonalSystemContol\PersonalSystemContol\bin\Release\netcoreapp1.0\PersonalSystemContol.runtimeconfig.json
+C:\Users\Dench\Desktop\DiplomFinish\PersonalSystemContol\PersonalSystemContol\bin\Release\netcoreapp1.0\PersonalSystemContol.runtimeconfig.dev.json
+C:\Users\Dench\Desktop\DiplomFinish\PersonalSystemContol\PersonalSystemContol\bin\Release\netcoreapp1.0\PersonalSystemContol.dll
+C:\Users\Dench\Desktop\DiplomFinish\PersonalSystemContol\PersonalSystemContol\bin\Release\netcoreapp1.0\PersonalSystemContol.pdb
+C:\Users\Dench\Desktop\DiplomFinish\PersonalSystemContol\PersonalSystemContol\obj\Release\netcoreapp1.0\PersonalSystemContol.csprojResolveAssemblyReference.cache
+C:\Users\Dench\Desktop\DiplomFinish\PersonalSystemContol\PersonalSystemContol\obj\Release\netcoreapp1.0\PersonalSystemContol.AssemblyInfo.cs
+C:\Users\Dench\Desktop\DiplomFinish\PersonalSystemContol\PersonalSystemContol\obj\Release\netcoreapp1.0\PersonalSystemContol.dll
+C:\Users\Dench\Desktop\DiplomFinish\PersonalSystemContol\PersonalSystemContol\obj\Release\netcoreapp1.0\PersonalSystemContol.pdb

@@ -1,0 +1,9 @@
+c:\users\andreygolubkow\documents\visual studio 2017\Projects\PersonalSystemContol\PersonalSystemContol\bin\Debug\netcoreapp1.0\PersonalSystemContol.deps.json
+c:\users\andreygolubkow\documents\visual studio 2017\Projects\PersonalSystemContol\PersonalSystemContol\bin\Debug\netcoreapp1.0\PersonalSystemContol.runtimeconfig.json
+c:\users\andreygolubkow\documents\visual studio 2017\Projects\PersonalSystemContol\PersonalSystemContol\bin\Debug\netcoreapp1.0\PersonalSystemContol.runtimeconfig.dev.json
+c:\users\andreygolubkow\documents\visual studio 2017\Projects\PersonalSystemContol\PersonalSystemContol\obj\Debug\netcoreapp1.0\PersonalSystemContol.csprojResolveAssemblyReference.cache
+c:\users\andreygolubkow\documents\visual studio 2017\Projects\PersonalSystemContol\PersonalSystemContol\obj\Debug\netcoreapp1.0\PersonalSystemContol.AssemblyInfo.cs
+C:\Users\andreygolubkow\documents\visual studio 2017\Projects\PersonalSystemContol\PersonalSystemContol\bin\Debug\netcoreapp1.0\PersonalSystemContol.dll
+C:\Users\andreygolubkow\documents\visual studio 2017\Projects\PersonalSystemContol\PersonalSystemContol\bin\Debug\netcoreapp1.0\PersonalSystemContol.pdb
+C:\Users\andreygolubkow\documents\visual studio 2017\Projects\PersonalSystemContol\PersonalSystemContol\obj\Debug\netcoreapp1.0\PersonalSystemContol.dll
+C:\Users\andreygolubkow\documents\visual studio 2017\Projects\PersonalSystemContol\PersonalSystemContol\obj\Debug\netcoreapp1.0\PersonalSystemContol.pdb
